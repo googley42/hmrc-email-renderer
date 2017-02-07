@@ -378,6 +378,8 @@ object TemplateParams {
       "user_id" -> "914657894302",
       "full_name" -> "Joe Bloggs"
     ),
-    "customs_declaration_success" -> newMessageAlert_Names
+    "customs_declaration_success" -> Map(
+      "details" -> "declaration success details"
+    )
   )
 }

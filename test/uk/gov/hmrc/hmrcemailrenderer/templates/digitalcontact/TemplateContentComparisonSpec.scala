@@ -31,8 +31,7 @@ class TemplateContentComparisonSpec extends UnitSpec with TemplateLoader with On
 
     "include customs_declaration_success" in new TemplateComparison {
       val params = Map(
-        "recipientName_title" -> "title",
-        "recipientName_surname" -> "b",
+        "details" -> "details",
         "staticAssetVersion" -> "version",
         "staticAssetUrlPrefix" -> "prefix",
         "borderColour" -> "#005EA5"
