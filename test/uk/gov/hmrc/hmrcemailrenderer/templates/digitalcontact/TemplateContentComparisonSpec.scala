@@ -50,6 +50,7 @@ class TemplateContentComparisonSpec extends UnitSpec with TemplateLoader with On
 
     "include customs_payment_required" in new TemplateComparison {
       val params = Map(
+        "details" -> "details",
         "staticAssetVersion" -> "version",
         "staticAssetUrlPrefix" -> "prefix",
         "borderColour" -> "#005EA5"

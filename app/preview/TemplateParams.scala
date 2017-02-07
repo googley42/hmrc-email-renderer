@@ -379,7 +379,10 @@ object TemplateParams {
       "full_name" -> "Joe Bloggs"
     ),
     "customs_declaration_success" -> Map(
-      "details" -> "declaration success details"
+      "details" -> "declaration success details will appear here"
+    ),
+    "customs_payment_required" -> Map(
+      "details" -> "payment required details will appear here"
     )
   )
 }
