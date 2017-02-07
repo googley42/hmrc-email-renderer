@@ -383,6 +383,9 @@ object TemplateParams {
     ),
     "customs_payment_required" -> Map(
       "details" -> "payment required details will appear here"
+    ),
+    "customs_payment_sucess" -> Map(
+      "details" -> "payment success details will appear here"
     )
   )
 }
