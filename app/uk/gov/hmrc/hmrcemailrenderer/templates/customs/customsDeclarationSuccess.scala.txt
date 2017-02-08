@@ -2,7 +2,7 @@
 This is a test email only. Should you receive this email please ignore it
 
 Your Supplementary Declaration was successful.
-The following is the response to your recent successfully supplementary declaration:
+The following is the response to your recent successful supplementary declaration:
 
 @params("details")
 
